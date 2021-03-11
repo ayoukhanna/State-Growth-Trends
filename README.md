@@ -1,4 +1,5 @@
 # State-growth
+
 Population trends within a country can have a drastic impact on its future global economic, geopolitical positions, population trends will also drive the direction a countries development within its own borders. In the United States, population is recorded every 10 years by The United States Census Bureau. This data is then used by the government to make several very important decisions, one of them being allocation of seats in the House of Representatives.
 
 
