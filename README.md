@@ -26,3 +26,8 @@ As stated previously growing or shrinking populations need to be carefully track
 
 <img src="/Visualizations/az_forecast.png" width="500">
 <img src="/Visualizations/tx_forecast.png" width="500">
+
+Link to Tableau public page for interactive visualizations
+https://public.tableau.com/profile/abe1825#!/vizhome/USAgrowth/Story1
+https://public.tableau.com/profile/abe1825#!/vizhome/Topfivestateforecast/Story1
+
