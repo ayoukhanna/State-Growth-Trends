@@ -15,6 +15,7 @@ As the United States is grows it is important to learn where exactly most of the
 <img src="/Visualizations/region_growth.png" width="500">
 
 The United States geographically is a very large county. Dividing into four large regions still does not give an accurate picture of which state within the region is contributing to growth. The state that grew the most from 2010-2020 was the state of Utah (17.10%) and the state that shrunk was West Virginia (-3.75%).
+
 <img src="/Visualizations/pop_change_state.png" width="500">
 
 Certain unforeseen such as natural disasters can cause a break in a trend or accelerate existing trends in population. The COVID-19 pandemic of 2020 caused significant population movement within the United States. When comparing 2018-2019 and 2019-2020, certain trends become noticeable. For example, in 2018-2019 California population change was net zero, however 2019-2020 CA lost .2% of its population which amounts to ~79,000 people. The state of New York lost .4% of its population from 2018-2019 and then lost .6% of its population from 2019-2020
@@ -28,6 +29,8 @@ As stated previously growing or shrinking populations need to be carefully track
 <img src="/Visualizations/tx_forecast.png" width="500">
 
 Link to Tableau public page for interactive visualizations
+
 https://public.tableau.com/profile/abe1825#!/vizhome/USAgrowth/Story1
+
 https://public.tableau.com/profile/abe1825#!/vizhome/Topfivestateforecast/Story1
 
